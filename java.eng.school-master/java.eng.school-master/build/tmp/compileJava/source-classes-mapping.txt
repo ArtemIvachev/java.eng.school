@@ -1,0 +1,20 @@
+ru/mirea/school/details/UserDetailsServiceImpl.java
+ ru.mirea.school.details.UserDetailsServiceImpl
+ru/mirea/school/models/User.java
+ ru.mirea.school.models.User
+ru/mirea/school/controllers/MainController.java
+ ru.mirea.school.controllers.MainController
+ru/mirea/school/details/MyUserDetails.java
+ ru.mirea.school.details.MyUserDetails
+ru/mirea/school/configs/MvcConfig.java
+ ru.mirea.school.configs.MvcConfig
+ru/mirea/school/repo/TeachingProgramRepository.java
+ ru.mirea.school.repo.TeachingProgramRepository
+ru/mirea/school/models/TeachingProgram.java
+ ru.mirea.school.models.TeachingProgram
+ru/mirea/school/repo/UserRepository.java
+ ru.mirea.school.repo.UserRepository
+ru/mirea/school/configs/WebSecurityConfig.java
+ ru.mirea.school.configs.WebSecurityConfig
+ru/mirea/school/SchoolApplication.java
+ ru.mirea.school.SchoolApplication
